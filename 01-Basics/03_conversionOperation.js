@@ -12,3 +12,4 @@ console.log(booloeanIsLoggedIn);
 let someNumber=22;
 let stringNumber= String(someNumber);
 console.log(typeof(someNumber));
+
